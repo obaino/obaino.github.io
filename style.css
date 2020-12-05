@@ -1,0 +1,49 @@
+body {
+	background: GhostWhite;
+	margin-top: 2%;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+h1, h2, h3 {
+	color: DarkRed;
+	text-shadow: 2px 2px 3px red;
+	letter-spacing: 2px;
+}
+
+p {
+	text-indent: 25px;
+}
+
+address {
+	text-align: right;
+	color: DarkGreen;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+  text-decoration: underline;
+}
+
+img {
+  border: thick;
+}
