@@ -3,21 +3,19 @@ body {
 	margin-top: 2%;
 	margin-left: 4%;
 	margin-right: 4%;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1, h2, h3 {
-	color: DarkRed;
-	text-shadow: 2px 2px 3px red;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: indigo;
+	text-shadow: 2px 2px 3px LightSteelBlue;
 	letter-spacing: 2px;
-}
-
-p {
-	text-indent: 25px;
 }
 
 address {
 	text-align: right;
-	color: DarkGreen;
+	color: sienna;
 }
 
 /* unvisited link */
