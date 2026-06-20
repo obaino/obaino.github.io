@@ -41,10 +41,10 @@ This plugin bypasses Adobe's official desktop software, allowing Calibre to open
 Because DRM removal utilities are legally sensitive, this plugin must be downloaded manually from a trusted third-party repository.
 
 1. Open your web browser and navigate to the official GitHub releases page:
-   *   **URL:** [https://github.com/noDRM/DeDRM_tools/releases/tag/v10.0.3](https://github.com/noDRM/DeDRM_tools/releases/tag/v10.0.3)
-2. Download the file named **`DeDRM_tools_10.0.3.zip`** to your Downloads folder.
-3. Open your file manager, navigate to your Downloads folder, and **unzip/extract** `DeDRM_tools_10.0.3.zip`.
-4. Open the newly extracted folder (`DeDRM_tools_10.0.3`). Inside, you will see a file named **`DeDRM_plugin.zip`**.
+   *   **URL:** [https://github.com/noDRM/DeDRM_tools/releases/tag/v10.0.9](https://github.com/noDRM/DeDRM_tools/releases/tag/v10.0.9)
+2. Download the file named **`DeDRM_tools_10.0.9.zip`** to your Downloads folder.
+3. Open your file manager, navigate to your Downloads folder, and **unzip/extract** `DeDRM_tools_10.0.9.zip`.
+4. Open the newly extracted folder (`DeDRM_tools_10.0.9`). Inside, you will see a file named **`DeDRM_plugin.zip`**.
    *   *CRITICAL: Do not unzip this inner `DeDRM_plugin.zip` file. This raw zip bundle is exactly what Calibre requires.*
 
 ---
